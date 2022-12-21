@@ -1,0 +1,19 @@
+{
+  "name": "@tmplates/vue",
+  "version": "1.0.0",
+  "keywords": ["genrate", "template", "vue", "scaffold"],
+  "description": "Vue project template config file",
+  "author": "2046",
+  "license": "MIT",
+  "template": {
+    "main": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmplates/vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmplates/vue/issues"
+  },
+  "homepage": "https://github.com/tmplates/vue#readme"
+}
