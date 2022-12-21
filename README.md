@@ -1,4 +1,4 @@
-# @tmplates/vanilla
+# @tmplates/vue
 
 Vue project template config file.
 
