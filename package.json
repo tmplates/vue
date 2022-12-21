@@ -1,12 +1,13 @@
 {
   "name": "@tmplates/vue",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "keywords": ["genrate", "template", "vue", "scaffold"],
   "description": "Vue project template config file",
   "author": "2046",
   "license": "MIT",
   "template": {
-    "main": "index.js"
+    "main": "index.js",
+    "preprepare": "preprepare.js"
   },
   "repository": {
     "type": "git",
